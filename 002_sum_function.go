@@ -9,6 +9,5 @@ func sum(a int, b int) int {
 func main() {
 	a := 10
 	b := 40
-
 	fmt.Println("The sum between a and b is", sum(a, b))
 }
